@@ -1,0 +1,18 @@
+{
+  "name": "likes",
+  "version": "1.0.0",
+  "description": "Users who like post",
+  "main": "main.js",
+  "dependencies": {
+    "commander": "^2.19.0",
+    "prettier": "^1.16.4",
+    "puppeteer": "^1.12.2",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ivan Skogarev",
+  "license": "ISC"
+}
